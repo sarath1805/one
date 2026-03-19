@@ -31,8 +31,8 @@
 		 </snapshotRepository>
 		
 		<repository>
-  <id>myfeed</id>
-  <url>https://pkgs.dev.azure.com/shaikmustafa8991/myproject/_packaging/myfeed/maven/v1</url>
+  <id>NexusRepo</id>
+  <url>http://18.208.110.111:8081/repository/myfisrtrepo/</url>
   <releases>
     <enabled>true</enabled>
   </releases>
